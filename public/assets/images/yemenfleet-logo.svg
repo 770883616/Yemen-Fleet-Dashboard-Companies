@@ -1,0 +1,28 @@
+<svg width="340" height="80" viewBox="0 0 340 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- ???? ??????? (?????? ?????? ??? ??? ?????) -->
+  <image href="assets/images/logoo.png" x="10" y="10" height="60" width="60"/>
+  
+  <!-- ?? YemenFleet ???? ?? ????? ?????? ????? ????? -->
+  <g>
+    <text x="90" y="50" font-family="Arial Black, Arial, sans-serif" font-size="26" letter-spacing="2">
+      <tspan fill="#e53935">Yemen</tspan>
+      <tspan fill="#222">Fleet</tspan>
+      <animateTransform
+        attributeName="transform"
+        type="skewX"
+        values="0;5;-5;0"
+        keyTimes="0;0.3;0.7;1"
+        dur="1.5s"
+        repeatCount="indefinite"/>
+    </text>
+    <!-- ???? ????? -->
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <rect x="90" y="20" width="170" height="30" fill="url(#shine)">
+      <animate attributeName="x" from="90" to="260" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
