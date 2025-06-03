@@ -85,5 +85,26 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 
-📞 الدعم الفني
-<div class="contact-box"> <div> <img src="images/support_icon.png" width="40"> <h4>الدعم الفني</h4> <p>support@yemenfleet.com</p> </div> <div> <img src="images/whatsapp_icon.png" width="40"> <h4>واتساب</h4> <p>+967 770 883 615</p> </div> </div><style> .screenshot { border: 1px solid #ddd; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); margin: 20px 0; } .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin: 30px 0; } .contact-box { display: flex; justify-content: center; gap: 50px; margin: 40px 0; text-align: center; } </style><div align="center" style="margin-top:50px"> <sub>© 2024 Yemen Fleet. جميع الحقوق محفوظة</sub> </div> ```
+## 📞 الدعم الفني
+
+<div style="display: flex; justify-content: center; gap: 30px; margin: 25px 0;">
+  <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; min-width: 200px;">
+    <h4 style="margin-top: 0;">البريد الإلكتروني</h4>
+    <p style="margin-bottom: 0;">
+      <a href="mailto:support@yemenfleet.com">support@yemenfleet.com</a>
+    </p>
+  </div>
+  
+  <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; min-width: 200px;">
+    <h4 style="margin-top: 0;">واتساب</h4>
+    <p style="margin-bottom: 0;">
+      <a href="https://wa.me/967770883615">+967 770 883 615</a>
+    </p>
+  </div>
+</div>
+
+<hr style="border: 0.5px solid #eee; margin: 40px 0;">
+
+<p align="center" style="color: #888; font-size: 0.9rem;">
+  © 2024 Yemen Fleet. جميع الحقوق محفوظة
+</p>
