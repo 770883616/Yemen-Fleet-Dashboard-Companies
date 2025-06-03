@@ -87,24 +87,16 @@ php artisan migrate --seed
 
 ## 📞 الدعم الفني
 
-<div style="display: flex; justify-content: center; gap: 30px; margin: 25px 0;">
-  <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; min-width: 200px;">
-    <h4 style="margin-top: 0;">البريد الإلكتروني</h4>
-    <p style="margin-bottom: 0;">
-      <a href="mailto:support@yemenfleet.com">support@yemenfleet.com</a>
-    </p>
-  </div>
-  
-  <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; min-width: 200px;">
-    <h4 style="margin-top: 0;">واتساب</h4>
-    <p style="margin-bottom: 0;">
-      <a href="https://wa.me/967770883615">+967 770 883 615</a>
-    </p>
-  </div>
+<div align="center" style="margin: 30px 0;">
+
+| طريقة التواصل | التفاصيل | 
+|--------------|----------|
+| **البريد الإلكتروني** | [support@yemenfleet.com](mailto:ayman.tawfaq.developer@gmail.com) |
+| **واتساب** | [+967 770 883 615](https://wa.me/967770883615) |
+| **ساعات العمل** | الأحد - الخميس (8 صباحًا - 4 مساءً) |
+
 </div>
 
-<hr style="border: 0.5px solid #eee; margin: 40px 0;">
-
-<p align="center" style="color: #888; font-size: 0.9rem;">
-  © 2024 Yemen Fleet. جميع الحقوق محفوظة
-</p>
+<div align="center" style="margin-top: 50px; color: #666; font-size: 14px;">
+  <p>© 2024 Yemen Fleet. جميع الحقوق محفوظة</p>
+</div>
