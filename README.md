@@ -91,9 +91,9 @@ php artisan migrate --seed
 
 | طريقة التواصل | التفاصيل | 
 |--------------|----------|
-| **البريد الإلكتروني** | [support@yemenfleet.com](mailto:ayman.tawfaq.developer@gmail.com) |
+| **البريد الإلكتروني** | [ayman.tawfaq.developer@gmail.com](mailto:ayman.tawfaq.developer@gmail.com) |
 | **واتساب** | [+967 770 883 615](https://wa.me/967770883615) |
-| **ساعات العمل** | الأحد - الخميس (8 صباحًا - 4 مساءً) |
+
 
 </div>
 
